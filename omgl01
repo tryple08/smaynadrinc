@@ -1,0 +1,15 @@
+{
+"Ad":{    
+    "choice":"facebook",
+    "interstital":"id",
+    "native":"id",
+    "banner" : "id",
+    "AppId":"ironsource id"
+},
+"Content":[
+ {
+     "Head":"title",
+     "Body":"description"
+ }  
+]    
+}
