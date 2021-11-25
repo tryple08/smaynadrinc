@@ -1,0 +1,15 @@
+{
+"Ad":{    
+    "choice":"admob",
+    "interstital":"ca-app-pub-3940256099942544/1033173712",
+    "native":"ca-app-pub-3940256099942544/2247696110",
+    "banner" : "	ca-app-pub-3940256099942544/6300978111",
+    "AppId":"is id"
+},
+"Content":[
+ {
+     "Head":"title",
+     "Body":"description"
+ }  
+]    
+}
